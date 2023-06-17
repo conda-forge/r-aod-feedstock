@@ -1,11 +1,11 @@
-About r-aod
-===========
+About r-aod-feedstock
+=====================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-aod-feedstock/blob/main/LICENSE.txt)
 
 Home: http://cran.r-project.org/package=aod
 
 Package license: GPL (>= 2)
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-aod-feedstock/blob/main/LICENSE.txt)
 
 Summary: This package provides a set of functions to analyse overdispersed counts or proportions. Most of the methods are already available elsewhere but are scattered in different packages. The proposed functions should be considered as complements to more sophisticated methods such as generalized estimating equations (GEE) or generalized linear mixed effect models (GLMM).
 
